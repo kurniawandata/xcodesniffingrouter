@@ -38,7 +38,7 @@ Perintah instalasi dan menjalankannya
 
 - cd xcodepandawa2
 
-- dpkg -i xcodepandawa29.deb
+- dpkg -i xcodesniffingrouter.deb
 
 - cd /xcodepandawa2
 
