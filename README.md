@@ -1,6 +1,6 @@
 # xcodesniffingrouter
 
-X-code Sniffing Router for Ubuntu 16.04 LTS v2.91 Stable
+X-code Sniffing Router for Ubuntu 16.04 LTS v2.91 Stable (Support web managemen)
 ------------------------------------------
 
 Released 26/04/2020
@@ -9,7 +9,6 @@ Released 26/04/2020
 ![alt text](http://xcode.or.id/04_small-logo.png)
 
 Aplikasi untuk membangun NAT, DHCP Server, access log, cache web, port forwarding, VPN Server secara cepat termasuk konfigurasinya, pada versi X-code sniffing router ditambahkan fitur-fitur sniffing username dan password.
-
 
 Cara menggunakan :
 ------------------
@@ -35,13 +34,20 @@ Perintah instalasi dan menjalankannya
 
 - Download : 
 
-- git clone https://github.com/kurniawandata/xcodepandawastandardstable
+- git clone https://github.com/kurniawandata/xcodepandawa2
 
-- cd xcodepandawastandardstable
+- cd xcodepandawa2
 
-- chmod -R 777 *
+- dpkg -i xcodepandawa29.deb
 
-- ./xcoderouter (lakukan instalasi X-code pandawa router, lalu install NAT melalui program, lalu jika ingin langsung aktifkan sniffing pilih nomor 20 yaitu "Pindah ke X-code Sniffing Router".
+- cd /xcodepandawa2
+
+- ./xcoderouter (Untuk router)
+
+- ./xcoderouter (lakukan instalasi X-code pandawa router, lalu install NAT melalui program, lalu jika ingin langsung aktifkan sniffing pilih nomor 20 yaitu "Pindah ke X-code Sniffing Router").
+
+- Untuk akses web managemen : https://ip addresss:1500
+
 
 Progammer 
 ---------
@@ -62,3 +68,6 @@ Jika ingin donasi untuk Kurniawan
 ![alt text](http://xcodeserver.my.id/gofood.png)
 
 ![alt text](http://xcodeserver.my.id/gopay.png)
+
+
+
