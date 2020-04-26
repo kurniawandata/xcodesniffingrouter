@@ -42,8 +42,6 @@ Perintah instalasi dan menjalankannya
 
 - cd /xcodepandawa2
 
-- ./xcoderouter (Untuk router)
-
 - ./xcoderouter (lakukan instalasi X-code pandawa router, lalu install NAT melalui program, lalu jika ingin langsung aktifkan sniffing pilih nomor 20 yaitu "Pindah ke X-code Sniffing Router").
 
 - Untuk akses web managemen : https://ip addresss:1500
