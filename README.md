@@ -36,7 +36,7 @@ Perintah instalasi dan menjalankannya
 
 - git clone https://github.com/kurniawandata/xcodesniffingrouter
 
-- cd xcodepandawa2
+- cd xcodesniffingrouter
 
 - dpkg -i xcodesniffingrouter.deb
 
