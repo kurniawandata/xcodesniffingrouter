@@ -3,7 +3,7 @@
 X-code Sniffing Router for Ubuntu 16.04 LTS v2.92 Stable (Support web managemen)
 ------------------------------------------
 
-Released 26/04/2020
+Released 28/04/2020
 -------------------
 
 ![alt text](http://xcode.or.id/04_small-logo.png)
