@@ -1,6 +1,6 @@
 # xcodesniffingrouter
 
-X-code Sniffing Router for Ubuntu 16.04 LTS v2.91 Stable (Support web managemen)
+X-code Sniffing Router for Ubuntu 16.04 LTS v2.92 Stable (Support web managemen)
 ------------------------------------------
 
 Released 26/04/2020
