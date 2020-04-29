@@ -49,7 +49,7 @@ Perintah instalasi dan menjalankannya
 
 Video cara penggunakan
 ----------------------
-https://www.youtube.com/watch?v=OpHbSDxiD6Y&t=14s
+- https://www.youtube.com/watch?v=OpHbSDxiD6Y&t=14s
 
 
 Progammer 
