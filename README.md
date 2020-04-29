@@ -47,6 +47,11 @@ Perintah instalasi dan menjalankannya
 - Untuk akses web managemen : https://ip addresss:1500
 
 
+Video cara penggunakan
+----------------------
+https://www.youtube.com/watch?v=OpHbSDxiD6Y&t=14s
+
+
 Progammer 
 ---------
 
