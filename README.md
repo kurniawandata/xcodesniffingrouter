@@ -12,6 +12,9 @@ Aplikasi untuk membangun NAT, DHCP Server, access log, cache web, port forwardin
 
 Aplikasi ini khusus untuk fitur sniffing dibuat untuk tujuan riset dan belajar, bukan untuk diimplementasikan mengambil username dan password orang lain.
 
+Saya tidak bertanggung jawab segala hal yang diakibatkan program ini.
+
+
 Cara menggunakan :
 ------------------
 
