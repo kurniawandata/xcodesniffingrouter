@@ -10,6 +10,8 @@ Released 28/04/2020
 
 Aplikasi untuk membangun NAT, DHCP Server, access log, cache web, port forwarding, VPN Server secara cepat termasuk konfigurasinya, pada versi X-code sniffing router ditambahkan fitur-fitur sniffing username dan password.
 
+Aplikasi ini dibuat untuk tujuan riset dan belajar, bukan untuk diimplementasikan mengambil username dan password orang lain.
+
 Cara menggunakan :
 ------------------
 
