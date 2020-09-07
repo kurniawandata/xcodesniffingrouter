@@ -14,6 +14,10 @@ Aplikasi ini khusus untuk fitur sniffing dibuat untuk tujuan riset dan belajar, 
 
 Saya tidak bertanggung jawab segala hal yang diakibatkan program ini.
 
+SSL Strip
+---------
+Sumber SSLStrip : https://github.com/moxie0/sslstrip (GPL v3 license)
+
 
 Cara menggunakan :
 ------------------
@@ -66,7 +70,7 @@ Progammer
 License
 ------- 
 
-- GNU General Public License 
+- GNU General Public v3 License
 
 
 Donasi :
