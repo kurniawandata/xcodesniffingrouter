@@ -28,15 +28,9 @@ Jika belum diinstall bisa download ISO-nya
 
 Dari release ubuntu
 
-- http://releases.ubuntu.com/16.04/ubuntu-16.04.4-server-i386.iso (32 bit)
+- https://releases.ubuntu.com/16.04/ubuntu-16.04.6-server-i386.iso (32 bit)
 
-- http://releases.ubuntu.com/16.04/ubuntu-16.04.4-server-amd64.iso (64 bit)
-
-Dari kambing (Indonesia)
-
-- http://kambing.ui.ac.id/iso/ubuntu/releases/16.04.4/ubuntu-16.04.4-server-i386.iso (32 bit)
-
-- http://kambing.ui.ac.id/iso/ubuntu/releases/16.04.4/ubuntu-16.04.4-server-amd64.iso (64 bit)
+- https://releases.ubuntu.com/16.04/ubuntu-16.04.7-server-amd64.iso (64 bit)
 
 Perintah instalasi dan menjalankannya
 -------------------------------------
