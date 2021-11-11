@@ -8,7 +8,7 @@ Released 28/04/2020
 
 ![alt text](http://xcode.or.id/04_small-logo.png)
 
-Aplikasi untuk membangun NAT, DHCP Server, access log, cache web, port forwarding, VPN Server secara cepat termasuk konfigurasinya, pada versi X-code sniffing router ditambahkan fitur-fitur sniffing username dan password.
+Aplikasi untuk membangun NAT, DHCP Server, access log, cache web, port forwarding, VPN Server secara cepat termasuk konfigurasinya, pada versi X-code sniffing router ditambahkan fitur-fitur sniffing username dan password. Mendukung SSLStripping.
 
 Aplikasi ini khusus untuk fitur sniffing dibuat untuk tujuan riset dan belajar, bukan untuk diimplementasikan mengambil username dan password orang lain.
 
@@ -56,9 +56,9 @@ Perintah instalasi dan menjalankannya
 - Untuk akses web managemen : https://ip addresss:1500
 
 
-Video cara penggunakan
+Video cara penggunaan serta demonya
 ----------------------
-- https://www.youtube.com/watch?v=OpHbSDxiD6Y&t=14s
+- https://drive.google.com/file/d/1t1RmGux-Yu0pVaMNqPQtkrVXeWyvJvbJ/view
 
 
 Progammer 
