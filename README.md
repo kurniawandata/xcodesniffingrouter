@@ -69,15 +69,8 @@ License
 
 Donasi :
 --------
-Jika ingin donasi untuk Kurniawan
+Donasi untuk Kurniawan telah berkontribusi sebagai pengembang free software & open source dalam bentuk gopay<br />
 
-![alt text](https://kurniawan.xcode.or.id/gofood.png)
-
-![alt text](https://kurniawan.xcode.or.id/gopay.png)
-
-Ovo :
-
-![alt text](https://kurniawan.xcode.or.id/ovo3.png)
-
-![alt text](https://kurniawan.xcode.or.id/ovo2.png)
+ <img src="https://xcode.co.id/qrcode.png" alt="gopay"> <br />
+ Gopay
 
