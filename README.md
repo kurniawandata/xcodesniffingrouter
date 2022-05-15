@@ -71,6 +71,6 @@ Donasi :
 --------
 Donasi untuk Kurniawan telah berkontribusi sebagai pengembang free software & open source dalam bentuk gopay<br />
 
- <img src="https://xcode.co.id/qrcode.png" alt="gopay"> <br />
- Gopay
+ <img src="https://xcode.co.id/qrcode5.png" alt="gopay"> <br />
+ Gopay (Customer)
 
